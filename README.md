@@ -9,8 +9,7 @@
 ---
 
 # 👤 **Whoami**
-In my storybook, software development was my initial commit, is my sprint, and will be my legacy. As the commits are written, its chapters have been decorated with an array of back-end and front-end languages (take a look at my 5+ year skills below). While (true), my loop role returns JavaScript these days, we can break back into full-stack if that's the case.
-
+In my 15+ year career logfile, software development was my initial commit, is my current sprint, and will be my final release. As new lines were written, its chapters were decorated with an array of back-end and front-end languages (take a look at my 5+ year skills below). While (true), my recent roles keep looping around front-end; we can switch back to full-stack if that's the case.
 
 # 🛠️ **Technical Skills**
 
