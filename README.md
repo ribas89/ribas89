@@ -13,17 +13,12 @@ In my 15+ year career logfile, software development was my initial commit, is my
 
 # 🛠️ **Technical Skills**
 
-### 5+ years  
-JavaScript • React • TypeScript • Node.js • Redux • SQL • Git • Agile • Apache • Big O • CSS3 • Cross-Browser Compatibility • HTML4 • MariaDB • Prettier • Responsive Design • Scrum
+**5+ years:** JavaScript • React • TypeScript • Node.js • Redux • SQL • Git • Agile • Apache • Big O • CSS3 • Cross-Browser Compatibility • HTML4 • MariaDB • Prettier • Responsive Design • Scrum
 
-### 4+ years  
-CI/CD • Code Push • ESLint • PHP • Postman • React Native • Swagger • WCAG
+**4 years:** CI/CD • Code Push • ESLint • PHP • Postman • React Native • Swagger • WCAG
 
-### 3+ years  
-Axe • Firebase • GitHub Actions • Java • macOS
+**3 years:** Axe • Firebase • GitHub Actions • Java • macOS
 
-### 2+ years  
-Angular 2+ • AngularJS • App Center • Django • NoSQL • SASS • Shell Script • SVN
+**2 years:** Angular 2+ • AngularJS • App Center • Django • NoSQL • SASS • Shell Script • SVN
 
-### 1+ years  
-AWS • Azure • C++ • CMMI • Cypress • Docker • Expo • GraphQL Apollo • Jenkins • Kubernetes • MobX • MongoDB • Next.js • Python • Selenium • Visual Basic • Vue.js
+**1 years:** AWS • Azure • C++ • CMMI • Cypress • Docker • Expo • GraphQL Apollo • Jenkins • Kubernetes • MobX • MongoDB • Next.js • Python • Selenium • Visual Basic • Vue.js
