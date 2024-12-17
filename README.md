@@ -27,15 +27,14 @@ In my 15+ year career logfile, software development was my initial commit, is my
 
 ## **Senior Frontend Engineer** @ **Neurogram** | 📅 **Nov 2023 - Nov 2024**
 
-### 🤔 The Challenge
-The project suffered from **permission bloat** and **fragmented dependencies** that caused **slow setup**, **inconsistent code**, and **no shared design system**. Projects lacked support for **i18n**, **microservices**, and infrastructure relied on **external hosting** with no access to **CI/CD**.
+### 🤔 **The Challenge**
+The **React Web** project faced **permission bloat** and **fragmented dependencies**, leading to **slow setup**, **inconsistent code**, and **no shared design system**. The project also lacked support for **i18n**, **microservices**, and relied on **external hosting** with no access to a **CI/CD pipeline**.
 
-### 📈 Results **BY** Actions 💡
-
-- Saved **hundreds of development hours** **BY** creating a **design system** with reusable **components**, hooks, and providers used across multiple projects.  
-- Reduced deploy time to **5 minutes** **BY** implementing a **3-click deploy system** through a centralized **CI/CD pipeline** using **GitHub Actions** and **Firebase**.  
-- Reduced onboarding time from **5 days to 5 minutes** **BY** streamlining the developer setup to just two commands: **npm install** & **npm run serve**.  
-- Reduced redundancy by **400%** and decreased **project bootstrap time** **BY** unifying all frontend projects into a single **monorepo** with shared dependencies.  
-- Increased code **quality** and **maintainability** **BY** taking ownership of the **PR review process** for all incoming code, ensuring adherence to React **best practices**.  
-- Automated repetitive **configurations** **BY** integrating support for core features like i18n, encryption, messaging, and responsiveness in every project by default.  
-- Enabled **multi-environment development** and testing **BY** designing and developing support for **microservices** and **live API mocks**. 
+### 📈 **Results BY Actions** 💡
+- Saved **hundreds of development hours** **BY** creating a **React Web design system** with reusable **components**, **hooks**, and **providers** used across multiple projects.  
+- Reduced deploy time to **5 minutes** **BY** implementing a **2-click deploy system** through a centralized **CI/CD pipeline** using **GitHub Actions** and **Firebase**.  
+- Reduced onboarding time from **5 days to 5 minutes** **BY** streamlining the developer setup using **Vite** with just two commands: **npm install** & **npm run serve**.  
+- Reduced redundancy by **400%** and decreased **project bootstrap time** **BY** unifying all frontend project builds and rules into a single **monorepo** with shared dependencies.  
+- Increased code **quality** and **maintainability** **BY** taking ownership of the **PR review process** for all incoming code, ensuring adherence to **React best practices**.  
+- Automated repetitive **configurations** **BY** integrating support for core features like **i18n**, **encryption**, **messaging**, and **responsiveness** in every project by default.  
+- Enabled **multi-environment development** and testing **BY** designing and developing support for **microservices** and **live API mocks**.  
