@@ -27,7 +27,7 @@ In my career changelog, software development was my initial commit, is my curren
 
 # 💼 **Job Experience**
 
-## **Senior Frontend Engineer** @ **Neurogram** | 📅 **Nov 2023 - Nov 2024**
+## **Senior Software Engineer - Frontend** @ **Neurogram** | 📅 **Nov 2023 - Nov 2024**
 
 ### 🤔 **The Challenge**
 The **React Web** project faced **permission bloat** and **fragmented dependencies**, leading to **slow setup**, **inconsistent code**, and **no shared design system**. The project also lacked support for **i18n**, **microservices**, and relied on **external hosting** with no access to a **CI/CD pipeline**.
@@ -40,3 +40,19 @@ The **React Web** project faced **permission bloat** and **fragmented dependenci
 - Increased code **quality** and **maintainability** **BY** taking ownership of the **PR review process** for all incoming code, ensuring adherence to **React best practices**.  
 - Automated repetitive **configurations** **BY** integrating support for core features like **i18n**, **encryption**, **messaging**, and **responsiveness** in every project by default.  
 - Enabled **multi-environment development** and testing **BY** designing and developing support for **microservices** and **live API mocks**.  
+
+## **Senior Software Engineer - Frontend** @ **XTeam** | 📅 **Sep 2022 - Jul 2023**
+
+### 🤔 **The Challenge**
+Brought in to make final tweaks to the **React Native** project, but after integrating thousands of real data entries, critical performance issues emerged, including inefficient data rendering, animation bottlenecks, navigation slowdowns, inconsistent design logic, and cross-compatibility challenges.
+
+### 📈 **Results BY Actions** 💡
+- Reduced cold startup time to **2 seconds** **BY** refactoring the **Redux Rehydration** process to avoid full app reloads and optimizing data loading by fetching only **critical data** first for immediate display, while loading non-essential data in the background.
+- Improved **performance** for large datasets (**40,000+ items**) **BY** restructuring rendering logic, **optimizing** batch rendering, and implementing **list virtualization** during large data scrolls.
+- Eliminated **screen artifacts** **BY** optimizing animation logic for large datasets, migrating **from hardcoded** animations **to dynamic**, data-driven animations using **React Native Reanimated** and **Moti**.
+- Increased maintainability **BY** refactoring chained **useEffects**, removing misused hooks, and optimizing the React lifecycle, following **React best practices**.
+- Accelerated development workflows and enhanced **UI/UX consistency** **BY** building **reusable** animation **components** and UI interactions that mimicked iOS-native behavior.
+- Improved **scalability** **BY** implementing a consistent **component architecture** and adopting a **feature-based structure** to separate **UI** from **business logic**.
+- Enhanced **multi-gesture** support and improved **user interactions** **BY** **designing** and implementing **gesture logic** and refactoring bottom-sheet navigation.
+- Stabilized smooth, **bug-free** user experiences for **native features** **BY** rebuilding **native API flows** and ensuring reliable **native integrations**.
+- Extended 3rd-party libraries to meet **project requirements** **BY** patching dependencies with **patch-package**, adding **fixes** and **new features**.
