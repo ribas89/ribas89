@@ -9,7 +9,9 @@
 ---
 
 # 👤 **Whoami**
-In my 15+ year career logfile, software development was my initial commit, is my current sprint, and will be my final release. As new lines were written, its chapters were decorated with an array of back-end and front-end languages (take a look at my 5+ year skills below). While (true), my recent roles keep looping around front-end; we can switch back to full-stack if that's the case.
+15+ years of building software that works for most cases... and try-catching the edge ones.
+
+In my career changelog, software development was my initial commit, is my current sprint, and will be my final release. As new lines were written, its chapters were decorated with an array of back-end and front-end languages (take a look at my 5+ year skills below). While (true), my recent roles keep looping around front-end; we can switch back to full-stack if that's the case.
 
 # 🛠️ **Technical Skills**
 
