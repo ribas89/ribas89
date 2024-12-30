@@ -44,15 +44,29 @@ The **React Web** project faced **permission bloat** and **fragmented dependenci
 ## **Senior Software Engineer - Frontend** @ **XTeam** | 📅 **Sep 2022 - Jul 2023**
 
 ### 🤔 **The Challenge**
-Brought in to make final tweaks to the **React Native** project, but after integrating thousands of real data entries, critical performance issues emerged, including inefficient data rendering, animation bottlenecks, navigation slowdowns, inconsistent design logic, and cross-compatibility challenges.
+Brought in to make final tweaks to the **React Native** project, but after integrating **thousands of real data entries**, critical **performance issues** emerged, including **inefficient data rendering**, **animation bottlenecks**, **navigation slowdowns**, **inconsistent design logic**, and **cross-compatibility challenges**.
 
 ### 📈 **Results BY Actions** 💡
 - Reduced cold startup time to **2 seconds** **BY** refactoring the **Redux Rehydration** process to avoid full app reloads and optimizing data loading by fetching only **critical data** first for immediate display, while loading non-essential data in the background.
 - Improved **performance** for large datasets (**40,000+ items**) **BY** restructuring rendering logic, **optimizing** batch rendering, and implementing **list virtualization** during large data scrolls.
 - Eliminated **screen artifacts** **BY** optimizing animation logic for large datasets, migrating **from hardcoded** animations **to dynamic**, data-driven animations using **React Native Reanimated** and **Moti**.
-- Increased maintainability **BY** refactoring chained **useEffects**, removing misused hooks, and optimizing the React lifecycle, following **React best practices**.
+- Increased **maintainability** **BY** refactoring chained **useEffects**, removing misused hooks, and optimizing the React lifecycle, following **React best practices**.
 - Accelerated development workflows and enhanced **UI/UX consistency** **BY** building **reusable** animation **components** and UI interactions that mimicked iOS-native behavior.
 - Improved **scalability** **BY** implementing a consistent **component architecture** and adopting a **feature-based structure** to separate **UI** from **business logic**.
 - Enhanced **multi-gesture** support and improved **user interactions** **BY** **designing** and implementing **gesture logic** and refactoring bottom-sheet navigation.
 - Stabilized smooth, **bug-free** user experiences for **native features** **BY** rebuilding **native API flows** and ensuring reliable **native integrations**.
 - Extended 3rd-party libraries to meet **project requirements** **BY** patching dependencies with **patch-package**, adding **fixes** and **new features**.
+
+## **Senior Software Engineer - Frontend** @ **Riachuelo** | 📅 **Aug 2020 - Aug 2022**
+
+### 🤔 **The Challenge**
+The project aimed to **optimize HR workflows** by introducing a **faster, mobile-first solution** to replace the **outdated and cumbersome web interface**. Midway through the project, **team and design changes** necessitated **starting over from the ground up**, establishing **new development guidelines** and **scalable architecture**.
+
+### 📈 **Results BY Actions**
+- Reduced app update **time** from **days** to **seconds** **BY** preloading native dependencies on the app store and using **CodePush** for hotfixes and feature updates.  
+- Secured **communication** between the **React Native** app and backend systems **BY** implementing hybrid encryption with **RSA** and **AES**.  
+- **Simplified** SMS retrieval, input handling, and validation **BY** developing the open-source **React Native OTP Framework**.  
+- **Unified design** and implementation **BY** creating the open-source **React Native String Style** for Tailwind-inspired **class-based styling**.  
+- **Automated** builds to TestFlight (iOS) and APKs (Android) **BY** creating a **CI/CD** pipeline with **Azure DevOps** and **App Center**.  
+- Streamlined **data flow** across screens **BY** defining guidelines for **Redux**, **Context API**, and navigation parameters.  
+- Contributed to internal tools **BY** developing **React.js web applications** using **Tailwind CSS**, **DaisyUI**, and **Axios**.
