@@ -27,12 +27,12 @@ In my career changelog, software development was my initial commit, is my curren
 
 # 💼 **Job Experience**
 
-## **Senior Frontend Engineer - React.js** @ **Neurogram** | 📅 **Nov 2023 - Nov 2024**
+## Senior Frontend Engineer - React.js @ Neurogram | 📅 Nov 2023 - Nov 2024
 
-### 🤔 **The Challenge**
+### 🤔 The Challenge
 The **React Web** project faced **permission bloat** and **fragmented dependencies**, leading to **slow setup**, **inconsistent code**, and **no shared design system**. The project also lacked support for **i18n**, **microservices**, and relied on **external hosting** with no access to a **CI/CD pipeline**.
 
-### 📈 **Results BY Actions** 💡
+### 📈 Results BY Actions 💡
 - Saved **hundreds of development hours** **BY** creating a **React Web design system** with reusable **components**, **hooks**, and **providers** used across multiple projects.  
 - Reduced deploy time to **5 minutes** **BY** implementing a **2-click deploy system** through a centralized **CI/CD pipeline** using **GitHub Actions** and **Firebase**.  
 - Reduced onboarding time from **5 days to 5 minutes** **BY** streamlining the developer setup using **Vite** with just two commands: **npm install** & **npm run serve**.  
@@ -41,12 +41,12 @@ The **React Web** project faced **permission bloat** and **fragmented dependenci
 - Automated repetitive **configurations** **BY** integrating support for core features like **i18n**, **encryption**, **messaging**, and **responsiveness** in every project by default.  
 - Enabled **multi-environment development** and testing **BY** designing and developing support for **microservices** and **live API mocks**.  
 
-## **Senior Frontend Engineer - React Native** @ **XTeam** | 📅 **Sep 2022 - Jul 2023**
+## Senior Frontend Engineer - React Native @ XTeam | 📅 Sep 2022 - Jul 2023
 
-### 🤔 **The Challenge**
+### 🤔 The Challenge
 Brought in to make final tweaks to the **React Native** project, but after integrating **thousands of real data entries**, critical **performance issues** emerged, including **inefficient data rendering**, **animation bottlenecks**, **navigation slowdowns**, **inconsistent design logic**, and **cross-compatibility challenges**.
 
-### 📈 **Results BY Actions** 💡
+### 📈 Results BY Actions 💡
 - Reduced cold startup time to **2 seconds** **BY** refactoring the **Redux Rehydration** process to avoid full app reloads and optimizing data loading by fetching only **critical data** first for immediate display, while loading non-essential data in the background.
 - Improved **performance** for large datasets (**40,000+ items**) **BY** restructuring rendering logic, **optimizing** batch rendering, and implementing **list virtualization** during large data scrolls.
 - Eliminated **screen artifacts** **BY** optimizing animation logic for large datasets, migrating **from hardcoded** animations **to dynamic**, data-driven animations using **React Native Reanimated** and **Moti**.
@@ -57,12 +57,12 @@ Brought in to make final tweaks to the **React Native** project, but after integ
 - Stabilized smooth, **bug-free** user experiences for **native features** **BY** rebuilding **native API flows** and ensuring reliable **native integrations**.
 - Extended 3rd-party libraries to meet **project requirements** **BY** patching dependencies with **patch-package**, adding **fixes** and **new features**.
 
-## **Senior Frontend Engineer - React Native** @ **Riachuelo** | 📅 **Aug 2020 - Aug 2022**
+## Senior Frontend Engineer - React Native @ Riachuelo | 📅 Aug 2020 - Aug 2022
 
-### 🤔 **The Challenge**
+### 🤔 The Challenge
 The project aimed to **optimize HR workflows** by introducing a **faster, mobile-first solution** to replace the **outdated and cumbersome web interface**. Midway through the project, **team and design changes** necessitated **starting over from the ground up**, establishing **new development guidelines** and **scalable architecture**.
 
-### 📈 **Results BY Actions**
+### 📈 Results BY Actions
 - Reduced app update **time** from **days** to **seconds** **BY** preloading native dependencies on the app store and using **CodePush** for hotfixes and feature updates.  
 - Secured **communication** between the **React Native** app and backend systems **BY** implementing hybrid encryption with **RSA** and **AES**.  
 - **Simplified** SMS retrieval, input handling, and validation **BY** developing the open-source **React Native OTP Framework**.  
@@ -71,7 +71,7 @@ The project aimed to **optimize HR workflows** by introducing a **faster, mobile
 - Streamlined **data flow** across screens **BY** defining guidelines for **Redux**, **Context API**, and navigation parameters.  
 - Contributed to internal tools **BY** developing **React.js web applications** using **Tailwind CSS**, **DaisyUI**, and **Axios**.
 
-## 👨‍💻 Frontend Engineer - AngularJS @ Banco Safra | 📅 **Jun 2019 – Aug 2020**
+## 👨‍💻 Frontend Engineer - AngularJS @ Banco Safra | 📅 Jun 2019 – Aug 2020
 
 ### 🧐 The Challenge
 Build a **digital wallet application** for **iOS and Android** within approximately **one semester**, using a **WebView architecture** powered by **AngularJS**, while establishing a **complex delivery** workflow across **multiple squads** and bringing **cohesion** to the frontend ecosystem through **shared standards** and **integration practices**.
@@ -84,3 +84,17 @@ Build a **digital wallet application** for **iOS and Android** within approximat
 - **Reduced** release integration **time** from **hours** to **minutes** **BY** acting as integration **lead**, **resolving conflicts** between new features and **establishing a process** to prepare the code for **safe integration**.  
 - **Drove** frontend **modernization** **BY** overseeing the **migration** from **AngularJS** to **Angular 9** through reviews and **architecture support**.  
 - Standardized **collaboration** across squads **BY** **documenting** a shared **knowledge** base for **version control**, **deployment workflows**, and **design system usage**.
+
+## Frontend Engineer - Angular 2+ @ Itaú Unibanco | 📅 Mar 2018 – Jun 2019
+
+### 🧐 The Challenge  
+Contribute to the development of a **bank-wide design system** using **Angular 7**, aimed at standardizing UI across multiple products and platforms. The role involved migrating legacy components, implementing accessibility support, and supporting third-party teams within a highly fragmented **multirepo** architecture, while working under **tight platform restrictions**, **complex tooling**, and **bureaucratic CI pipelines**.
+
+### 📈 Results BY Actions  
+- Contributed to **CI workflow standardization** **BY** applying **Git best practices** like **rebase workflows** and assisting in the integration of **semantic-release** and **linting rules** into the pipeline.  
+- Implemented **accessibility in core components** **BY** applying **WCAG AA** standards, conducting **screen-reader testing**, and ensuring components were **validated by visually impaired users**.  
+- Migrated **legacy UI components** from **AngularJS to Angular 7** **BY** rewriting **structure**, **logic**, and **styling** using **modern Angular practices**.  
+- Advocated for **design system adoption** **BY** supporting multiple squads across **mobile** and **desktop**, troubleshooting integration in a **multirepo component architecture**, and promoting consistent usage standards.  
+- Improved **component test maintainability** **BY** migrating from **Karma/Headless Chrome** to **Jest**, introducing **snapshot-based validation** for **UI consistency**.  
+- Enhanced **styling consistency** **BY** building reusable **SASS utilities** with **tokens** and **mixins** inside the **design system library**.  
+- Served as a **technical bridge** between internal teams and **external consultants** **BY** reviewing **code**, assisting with **component integration**, and ensuring alignment with **design system standards**.
