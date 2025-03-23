@@ -27,7 +27,7 @@ In my career changelog, software development was my initial commit, is my curren
 
 # 💼 **Job Experience**
 
-## **Senior Software Engineer - Frontend** @ **Neurogram** | 📅 **Nov 2023 - Nov 2024**
+## **Senior Frontend Engineer - React.js** @ **Neurogram** | 📅 **Nov 2023 - Nov 2024**
 
 ### 🤔 **The Challenge**
 The **React Web** project faced **permission bloat** and **fragmented dependencies**, leading to **slow setup**, **inconsistent code**, and **no shared design system**. The project also lacked support for **i18n**, **microservices**, and relied on **external hosting** with no access to a **CI/CD pipeline**.
@@ -41,7 +41,7 @@ The **React Web** project faced **permission bloat** and **fragmented dependenci
 - Automated repetitive **configurations** **BY** integrating support for core features like **i18n**, **encryption**, **messaging**, and **responsiveness** in every project by default.  
 - Enabled **multi-environment development** and testing **BY** designing and developing support for **microservices** and **live API mocks**.  
 
-## **Senior Software Engineer - Frontend** @ **XTeam** | 📅 **Sep 2022 - Jul 2023**
+## **Senior Frontend Engineer - React Native** @ **XTeam** | 📅 **Sep 2022 - Jul 2023**
 
 ### 🤔 **The Challenge**
 Brought in to make final tweaks to the **React Native** project, but after integrating **thousands of real data entries**, critical **performance issues** emerged, including **inefficient data rendering**, **animation bottlenecks**, **navigation slowdowns**, **inconsistent design logic**, and **cross-compatibility challenges**.
@@ -57,7 +57,7 @@ Brought in to make final tweaks to the **React Native** project, but after integ
 - Stabilized smooth, **bug-free** user experiences for **native features** **BY** rebuilding **native API flows** and ensuring reliable **native integrations**.
 - Extended 3rd-party libraries to meet **project requirements** **BY** patching dependencies with **patch-package**, adding **fixes** and **new features**.
 
-## **Senior Software Engineer - Frontend** @ **Riachuelo** | 📅 **Aug 2020 - Aug 2022**
+## **Senior Frontend Engineer - React Native** @ **Riachuelo** | 📅 **Aug 2020 - Aug 2022**
 
 ### 🤔 **The Challenge**
 The project aimed to **optimize HR workflows** by introducing a **faster, mobile-first solution** to replace the **outdated and cumbersome web interface**. Midway through the project, **team and design changes** necessitated **starting over from the ground up**, establishing **new development guidelines** and **scalable architecture**.
@@ -70,3 +70,17 @@ The project aimed to **optimize HR workflows** by introducing a **faster, mobile
 - **Automated** builds to TestFlight (iOS) and APKs (Android) **BY** creating a **CI/CD** pipeline with **Azure DevOps** and **App Center**.  
 - Streamlined **data flow** across screens **BY** defining guidelines for **Redux**, **Context API**, and navigation parameters.  
 - Contributed to internal tools **BY** developing **React.js web applications** using **Tailwind CSS**, **DaisyUI**, and **Axios**.
+
+## 👨‍💻 Frontend Engineer - AngularJS @ Banco Safra | 📅 **Jun 2019 – Aug 2020**
+
+### 🧐 The Challenge
+Build a **digital wallet application** for **iOS and Android** within approximately **one semester**, using a **WebView architecture** powered by **AngularJS**, while establishing a **complex delivery** workflow across **multiple squads** and bringing **cohesion** to the frontend ecosystem through **shared standards** and **integration practices**.
+
+### 📈 Results BY Actions
+- **Established** UI codebase **stability** across **30+ developers** **BY** defining shared **guidelines** for component structure, JavaScript logic, and **styling conventions** used across **multiple squads**.  
+- Enabled **consistent UI** across wallet features **BY** building and integrating a **framework-agnostic design system** in **SASS**, advocated through **shared documentation** and **technical onboarding**.  
+- Restored **CI/CD stability** **BY** enforcing a **tailored Git workflow** that **isolated conflicts** and ensured **clean integration** into **deploy pipelines**.  
+- **Mitigated** build **failures** **BY** aligning **Jenkins processes** with a standardized release version control **strategy**.  
+- **Reduced** release integration **time** from **hours** to **minutes** **BY** acting as integration **lead**, **resolving conflicts** between new features and **establishing a process** to prepare the code for **safe integration**.  
+- **Drove** frontend **modernization** **BY** overseeing the **migration** from **AngularJS** to **Angular 9** through reviews and **architecture support**.  
+- Standardized **collaboration** across squads **BY** **documenting** a shared **knowledge** base for **version control**, **deployment workflows**, and **design system usage**.
