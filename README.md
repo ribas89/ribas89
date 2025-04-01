@@ -71,9 +71,9 @@ The project aimed to **optimize HR workflows** by introducing a **faster, mobile
 - Streamlined **data flow** across screens **BY** defining guidelines for **Redux**, **Context API**, and navigation parameters.  
 - Contributed to internal tools **BY** developing **React.js web applications** using **Tailwind CSS**, **DaisyUI**, and **Axios**.
 
-## 👨‍💻 Frontend Engineer - AngularJS @ Banco Safra | 📅 Jun 2019 – Aug 2020
+## Frontend Engineer - AngularJS @ Banco Safra | 📅 Jun 2019 – Aug 2020
 
-### 🧐 The Challenge
+### 🤔 The Challenge
 Build a **digital wallet application** for **iOS and Android** within approximately **one semester**, using a **WebView architecture** powered by **AngularJS**, while establishing a **complex delivery** workflow across **multiple squads** and bringing **cohesion** to the frontend ecosystem through **shared standards** and **integration practices**.
 
 ### 📈 Results BY Actions
@@ -87,7 +87,7 @@ Build a **digital wallet application** for **iOS and Android** within approximat
 
 ## Frontend Engineer - Angular 2+ @ Itaú Unibanco | 📅 Mar 2018 – Jun 2019
 
-### 🧐 The Challenge  
+### 🤔 The Challenge  
 Contribute to the development of a **bank-wide design system** using **Angular 7**, aimed at standardizing UI across multiple products and platforms. The role involved migrating legacy components, implementing accessibility support, and supporting third-party teams within a highly fragmented **multirepo** architecture, while working under **tight platform restrictions**, **complex tooling**, and **bureaucratic CI pipelines**.
 
 ### 📈 Results BY Actions  
@@ -98,3 +98,18 @@ Contribute to the development of a **bank-wide design system** using **Angular 7
 - Improved **component test maintainability** **BY** migrating from **Karma/Headless Chrome** to **Jest**, introducing **snapshot-based validation** for **UI consistency**.  
 - Enhanced **styling consistency** **BY** building reusable **SASS utilities** with **tokens** and **mixins** inside the **design system library**.  
 - Served as a **technical bridge** between internal teams and **external consultants** **BY** reviewing **code**, assisting with **component integration**, and ensuring alignment with **design system standards**.
+
+## Research Engineer - Java @ UEPG | 📅 Mar 2015 – Aug 2017
+
+#### 🧐 The Challenge  
+Develop a **computational model to determine the optimal selling price for soybean sacks** using cost-based methods. Worked within a **legacy Java Struts-based framework**, contributing technical improvements while navigating academic and technical constraints.
+
+#### 📈 Results BY Actions  
+- Reduced **setup time from weeks to 10 minutes** **BY** building and distributing a preconfigured **virtual machine** with all dependencies.  
+- Improved system **reusability** **BY** refactoring a **Struts-based web application** to support **modular inputs** and custom costing scenarios.  
+- Enabled **dynamic content structures** **BY** designing a **data tree model** for hierarchical content and automatic **menu generation**.  
+- Maintained system **stability** across contributors **BY** manually **managing dependencies** without version control.  
+- Streamlined **onboarding** **BY** consolidating fragmented infrastructure into a single **bootable VM image**.  
+- Improved **model accuracy** **BY** implementing real-world **costing logic** and **edge cases** in the project.  
+- Documented **architecture and setup** **BY** creating internal **technical guides** for future research continuity.
+
