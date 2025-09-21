@@ -1,4 +1,4 @@
-![on-the-rock-profile](https://github.com/user-attachments/assets/c55d8624-2178-4cd5-a711-332c3cf7184a)
+![on-the-rock-profile](https://github.com/user-attachments/assets/4f3bcb87-f850-48a6-bc0b-97283c1522f6)
 # Jonathan (ribs) Ribas
 
 ### 🏷️ Senior Frontend Developer | TypeScript, React & React Native | Clean Code, Resilient Apps, Reliable User Experiences
