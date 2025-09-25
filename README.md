@@ -15,6 +15,8 @@
 
 In my career changelog, software development was my initial commit, is my current sprint, and will be my final release. As new lines were written, its chapters were composed of back-end and front-end languages (take a look at my 5+ year skills below).
 
+---
+
 # 🧰 Technical Skills
 
 5+ years: Agile, Apache, Big O, CSS3, Cross-Browser Compatibility, Git, HTML4, JavaScript, MariaDB, Node.js, Prettier, React, React Native, Redux, Responsive Design, Scrum, SQL, TypeScript
@@ -26,6 +28,8 @@ In my career changelog, software development was my initial commit, is my curren
 2 years: Angular 2+, AngularJS, App Center, Django, NoSQL, SASS, Shell Script, SVN
 
 1 year: AWS, Azure, C++, CMMI, Cypress, Docker, Expo, GraphQL Apollo, Jenkins, Kubernetes, MobX, MongoDB, Next.js, Python, Selenium, Visual Basic, Vue.js
+
+---
 
 # 💼 Job Experience
 
