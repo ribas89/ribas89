@@ -1,12 +1,11 @@
-![on-the-rock-profile](https://github.com/user-attachments/assets/4f3bcb87-f850-48a6-bc0b-97283c1522f6)
-[![Email](https://github.com/user-attachments/assets/7caa53f0-b451-4568-976a-535e611ad59f)](mailto:ribas89@proton.me)
-[![Github](https://github.com/user-attachments/assets/1fccc0a0-bf79-49d2-a09c-2ee959c4e39f)](https://github.com/ribas89)
-[![LinkedIn](https://github.com/user-attachments/assets/39aa062f-cbeb-4ee1-a3cc-d5a0a8cf1ddb)](https://www.linkedin.com/in/ribas89/)
+![header-bigger-cut](https://github.com/user-attachments/assets/4ed06604-28ed-4f1b-8b32-33a8a3850f27)
 
 # Jonathan (ribs) Ribas
 
 ### Clean Code → Resilient Software → Reliable UX → User Retention
 
+---
+[ribas89.eth.limo](https://ribas89.eth.limo) | [ribas89.us.kg](https://ribas89.us.kg/) | [ipfs.io](https://ipfs.io/ipns/k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f) | [dweb.link](https://k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f.ipns.dweb.link/) | [w3c.link](https://k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f.ipns.w3s.link/)
 ---
 
 # 🍖 Whoami
