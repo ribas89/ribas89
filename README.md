@@ -1,4 +1,4 @@
-![header-bigger-cut](https://github.com/user-attachments/assets/4ed06604-28ed-4f1b-8b32-33a8a3850f27)
+![header-bigger-cut](https://github.com/user-attachments/assets/17bf59be-0fc1-494e-afd0-10b6389bb9e0)
 
 # Jonathan (ribs) Ribas
 
