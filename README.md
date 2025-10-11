@@ -1,204 +1,200 @@
-![header-bigger-cut](https://github.com/user-attachments/assets/4ed06604-28ed-4f1b-8b32-33a8a3850f27)
+![build your project on the rock](https://github.com/user-attachments/assets/4ed06604-28ed-4f1b-8b32-33a8a3850f27)  
 
-# Jonathan (ribs) Ribas
+# Jonathan (ribs) Ribas  
 
-### Clean Code → Resilient Software → Reliable UX → User Retention
-
----
-
-## [ribas89.eth.limo](https://ribas89.eth.limo) | [ribas89.us.kg](https://ribas89.us.kg/) | [ipfs.io](https://ipfs.io/ipns/k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f) | [dweb.link](https://k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f.ipns.dweb.link/) | [w3c.link](https://k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f.ipns.w3s.link/)
-
-# 🍖 Whoami
-
-15+ years of building software that works for most cases… and try-catching the edge ones.
-
-In my career changelog, software development was my initial commit, is my current sprint, and will be my final release. As new lines were written, its chapters were composed of back-end and front-end languages (take a look at my 5+ year skills below).
+### Clean Code → Resilient Software → Reliable UX → User Retention  
 
 ---
 
-# 🧰 Technical Skills
-
-5+ years: Agile, Apache, Big O, CSS3, Cross-Browser Compatibility, Git, HTML4, JavaScript, MariaDB, Node.js, Prettier, React, React Native, Redux, Responsive Design, Scrum, SQL, TypeScript
-
-4 years: CI/CD, Code Push, ESLint, PHP, Postman, Swagger, WCAG
-
-3 years: Axe, Firebase, GitHub Actions, Java, macOS
-
-2 years: Angular 2+, AngularJS, App Center, Django, NoSQL, SASS, Shell Script, SVN
-
-1 year: AWS, Azure, C++, CMMI, Cypress, Docker, Expo, GraphQL Apollo, Jenkins, Kubernetes, MobX, MongoDB, Next.js, Python, Selenium, Visual Basic, Vue.js
+## [ribas89.eth.limo](https://ribas89.eth.limo) | [ribas89.us.kg](https://ribas89.us.kg/) | [ipfs.io](https://ipfs.io/ipns/k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f) | [dweb.link](https://k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f.ipns.dweb.link/) | [w3c.link](https://k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f.ipns.w3s.link/)  
 
 ---
 
-# 💼 Job Experience
+# 🍖 Whoami  
 
-## Senior Frontend Engineer - React.js @ Neurogram | 📅 Nov 2023 - Nov 2024
+**Since 2007** I **develop software** that works for most **cases**… and **catch the edge** ones.  
 
-### 🎯 The Challenge
+**In my career** git log, **programming** was my **initial commit**, is my **current stash**, and will be my **final tag**. As my commit **history progresses**, its hashes are composed with **back end and front end languages**.
 
-Architect solutions for shared modules across projects, CI/CD pipelines, fast development setup, unified dependencies, consistent code quality, core feature automation, and backend environments for testing.
+---
 
-### 📈 Results BY Actions
+# 🧰 Technical Skills  
 
-Saved hundreds of development hours BY architecting a React Web design system with reusable modules across multiple projects.
+- **5+ years**: Agile, Apache, Big O, CSS3, Cross-Browser Compatibility, Git, HTML4, JavaScript, MariaDB, Node.js, Prettier, React, React Native, Redux, Responsive Design, Scrum, SQL, TypeScript  
+- **4 years**: CI/CD, Code Push, ESLint, PHP, Postman, Swagger, WCAG  
+- **3 years**: Axe, Firebase, GitHub Actions, Java, macOS  
+- **2 years**: Angular 2+, AngularJS, App Center, Django, NoSQL, SASS, Shell Script, SVN  
+- **1 year**: AWS, Azure, C++, CMMI, Cypress, Docker, Expo, GraphQL Apollo, Jenkins, Kubernetes, MobX, MongoDB, Next.js, Python, Selenium, Visual Basic, Vue.js  
 
-Accelerated deploy time to 5 minutes BY designing a 2-click deployment workflow in GitHub Actions, integrating several projects into a single pipeline.
+---
 
-Shortened onboarding time from 5 days to 5 minutes BY configuring a robust project bootstrap and structure that provided the full development environment with a single command.
+# 💼 Job Experience  
 
-Boosted codebase efficiency up to 400% BY consolidating all frontend dependencies and configurations into a single mono-repo.
+## Senior Frontend Engineer - React.js @ Neurogram | 📅 Nov 2023 - Nov 2024  
 
-Increased code quality and maintainability BY reviewing all incoming code and enforcing React best practices
+### 📋 Task & Situation  
 
-Increased developer productivity BY automating support for core features like i18n, encryption, messaging, and responsiveness in every project by default.
+**Architect** shared module **solutions across projects**, **unify CI/CD pipelines**, accelerate **onboarding setup**, **standardize** dependencies, enforce **code quality**, **design** pre-built **core features** with **plug-and-play** integration, and enable **backend testing environments**.   
 
-Enabled on-the-fly backend development and testing BY architecting automated multienvironment support for microservices and live API mocks.
+### 📊 Results **BY** Actions  
 
-## Senior Frontend Engineer - React Native @ XTeam | 📅 Sep 2022 - Jul 2023
+1. **Saved hundreds** of development hours **BY** **architecting** a React Web **design system** with reusable modules **across multiple projects**.  
 
-### 🎯 The Challenge
+2. Reduced **deploy** time **down to 5 minutes** **BY** **designing** a **2-click** deployment **workflow** with **GitHub Actions**, integrating **several projects** into a **single pipeline**.  
 
-Address slow cold startup, inefficient rendering of large datasets, animation artifacts, navigation and gesture bottlenecks, maintainability gaps, inconsistent UI/UX, scalability limits, unstable native integrations, and missing features in 3rd-party libraries.
+3. Reduced **onboarding** time from **5 days to 5 minutes** **BY** configuring a **robust project bootstrap** and **structure** that provided the **full development environment** with a **single command**.  
 
-### 📈 Results BY Actions
+4. Boosted codebase **efficiency up to 400% BY** **consolidating** all frontend **dependencies** and **configurations** into a **single framework**.  
 
-Reduced cold startup time to 2 seconds BY refactoring the Redux Rehydration process to avoid full app reloads and fetching only critical data first for immediate display while loading non-essential data in the background.
+5. **Improved code quality** and maintainability **BY** **leading** the PR review **process** and enforcing React **best practices**.  
 
-Improved performance on datasets with tens of thousands of entries BY restructuring rendering logic, optimizing batch rendering, and implementing list virtualization for large-scale data visualization.
+6. **Increased** development **productivity** **BY** introducing a standard framework with **i18n**, **encryption**, **messaging**, and **responsiveness** baked into every project.  
 
-Eliminated screen artifacts BY optimizing animation logic for large datasets, replacing hardcoded animations to dynamic, data-driven animations using React Native Reanimated and Moti.
+7. Enabled **on-the-fly backend** development and **testing** **BY** **architecting** live **multienvironment support** for **microservices** and **live API mocks**.  
 
-Increased maintainability BY refactoring chained useEffects, removing misused hooks, and optimizing the React lifecycle, following React best practices.
 
-Accelerated development workflows and enhanced UI/UX consistency BY building reusable animation components and UI interactions that mimicked iOS-native behavior.
+## Senior Frontend Engineer - React Native @ XTeam | 📅 Sep 2022 - Jul 2023  
 
-Improved scalability BY implementing a consistent component architecture and adopting a feature-based structure to separate UI from business logic.
+### 📋 Task & Situation  
 
-Enhanced multi-gesture support and improved user interactions BY designing and implementing gesture logic and refactoring navigation.
+Address **slow cold startup**, inefficient **rendering of large datasets**, animation artifacts, navigation and gesture **bottlenecks**, maintainability gaps, inconsistent UI/UX, **scalability limits** and **missing features in** 3rd-party **libraries**.  
 
-Stabilized smooth, bug-free user experiences for native features BY rebuilding native API flows and ensuring reliable native integrations.
+### 📊 Results **BY** Actions  
 
-Extended 3rd-party libraries to meet project requirements BY patching dependencies with adding fixes and new features.
+1. **Reduced** cold startup time **down to 2 seconds** **BY** refactoring the **Redux Rehydration** process to **improve full app reloads** and prioritize **critical data**, enabling **immediate UI display** while loading **non-essential data** in the **background**.  
 
-## Senior Frontend Engineer - React Native @ Riachuelo | 📅 Aug 2020 - Aug 2022
+2. Improved **performance** on datasets with **tens of thousands** of entries **BY** **restructuring** rendering **logic**, **optimizing** batch **rendering**, and implementing **list virtualization** for **large-scale data**.  
 
-### 🎯 The Challenge
+3. **Eliminated** screen **artifacts** **BY** **optimizing** animation logic for **large datasets**, replacing **hardcoded animations** to **dynamic**, data-driven animations using **React Native Reanimated and Moti**.  
 
-Optimize HR workflows with a mobile-first solution to replace an outdated web interface, while addressing release speed, client-server security, OTP handling, design consistency, app delivery, data flow standardization, and internal tooling.
+4. **Optimized** the **React lifecycle** **BY** **refactoring** chained **useEffects**, removing **misused hooks**, and **applying React best practices**.  
 
-### 📈 Results BY Actions
+5. **Increased** development **productivity** and **UI/UX consistency** **BY** building **reusable** animation **components** and UI interactions that mimicked **iOS-native behavior**.  
 
-Accelerated store release time from days to seconds BY preloading native dependencies and pushing hotfixes and features through CodePush.
+6. Improved **scalability** **BY** implementing a **consistent component architecture** and adopting a **feature-based structure** to separate UI from business logic.  
 
-Secured client-server communication BY implementing hybrid encryption with RSA and AES.
+7. Enhanced **multi-gesture support** and user navigation **BY** designing and implementing **gesture logic** and **refactoring navigation flows**.  
 
-Simplified SMS retrieval, input handling, and validation BY developing the open-source React Native OTP Framework.
+8. **Extended** 3rd-party **libraries** to meet project requirements **BY** **patching dependencies** with fixes and **new features**.  
 
-Unified design and implementation BY creating the open-source React Native String Style for Tailwind-inspired class-based styling.
+## Senior Frontend Engineer - React Native @ Riachuelo | 📅 Aug 2020 - Aug 2022  
 
-Automated app delivery to iOS and Android stores BY building a CI/CD pipeline with Azure DevOps and App Center.
+### 📋 Task & Situation  
 
-Standardized data flow across screens BY defining guidelines for Redux, Context API, and navigation parameters.
+**Optimize** HR **workflows** with a **mobile-first** solution to **replace** an **outdated web interface**, while addressing release speed, client-server security, OTP handling, design consistency, app delivery, data flow standardization, and internal tooling.  
 
-Contributed to internal tools BY developing React.js web applications using Tailwind CSS, DaisyUI, and Axios.
+### 📊 Results **BY** Actions  
 
-## Staff Frontend Engineer - AngularJS @ Banco Safra | 📅 Jun 2019 – Aug 2020
+1. **Reduced** store **release** time to **under a minute** **BY** **preloading** native **dependencies** and delivering **hotfixes and features** later through **CodePush**.  
 
-### 🎯 The Challenge
+2. Secured **client-server communication** **BY** implementing **hybrid encryption** with **RSA and AES**.  
 
-Build a digital wallet for iOS and Android within one semester using an AngularJS WebView architecture, covering UI stability across 30+ developers, design consistency, CI/CD reliability, build stability, integration speed, frontend modernization, and cross-squad collaboration.
+3. **Simplified** SMS retrieval, input handling, and validation **BY** developing the open-source **React Native OTP Framework**.  
 
-### 📈 Results BY Actions
+4. Unified **styling and structure** **BY** creating the open-source **React Native String Style** for Tailwind-like **class-based styling**.  
 
-Established UI codebase stability across 30+ developers BY defining shared guidelines for component structure, JavaScript logic, and styling conventions used across multiple squads.
+5. **Automated app delivery** to iOS and Android stores **BY** building a **CI/CD** pipeline with **Azure DevOps** and **App Center**.  
 
-Enabled consistent UI across wallet features BY building and integrating a framework-agnostic design system in SASS, advocated through shared documentation and technical onboarding.
+6. **Standardized data flow** across screens **BY** defining guidelines for **Redux, Context API, and navigation parameters**.  
 
-Restored CI/CD stability BY enforcing a custom Git workflow that isolated conflicts and ensured clean integration into deploy pipelines.
+7. Contributed to **internal audit processes** **BY** developing **React.js web applications** using **Tailwind CSS**, **DaisyUI**, and **Axios**.  
 
-Mitigated build failures BY aligning Jenkins processes with a standardized release version control strategy.
+## Staff Frontend Engineer - AngularJS @ Banco Safra | 📅 Jun 2019 - Aug 2020  
 
-Reduced release integration time from hours to minutes BY managing and standardizing pull requests, resolving conflicts, and securing safe integration.
+### 📋 Task & Situation  
 
-Led frontend modernization BY overseeing the migration from AngularJS to Angular 9, providing architectural direction and code reviews.
+**Build a digital wallet** for **iOS and Android** **within 6 months** using an **AngularJS WebView** architecture, covering **UI stability across 30+ developers**, design consistency, **CI/CD** reliability, build **stability**, **integration speed**, frontend **modernization**, and **cross-squad collaboration**.  
 
-Standardized collaboration across squads BY documenting a shared knowledge base for version control, deployment workflows, and design system usage.
+### 📊 Results **BY** Actions  
 
-## Frontend Engineer - Angular 2+ @ Itaú Unibanco | 📅 Mar 2018 – Jun 2019
+1. Established **codebase stability** across **30+ developers** **BY** defining **shared guidelines** for component **structure**, JavaScript **logic**, and **styling conventions** used across **multiple squads**.  
 
-### 🎯 The Challenge
+2. Enabled **consistent UI** across wallet features **BY** **building** and integrating a **framework-agnostic design system in SASS**, advocated through **shared documentation and technical onboarding**.  
 
-Develop a company-wide design system with Angular 7, handling CI workflow standardization, accessibility, legacy component migration, test maintainability, styling consistency, and adoption across squads in a fragmented multi-repo architecture.
+3. Restored **CI/CD stability** **BY** enforcing a **custom Git workflow** that **isolated conflicts** and ensured **clean integration into deploy** pipelines.  
 
-### 📈 Results BY Actions
+4. Mitigated **build failures** **BY** **aligning Jenkins** processes with a **standardized release** version control **strategy**.  
 
-Contributed to CI workflow standardization BY applying Git best practices and assisting in the integration of semantic-release and linting rules into the pipeline.
+6. **Reduced release** integration time from **hours to minutes** **BY** **managing and standardizing** pull requests, resolving conflicts, and **securing safe integration**.  
 
-Enabled navigation for assistive technology users BY enforcing WCAG AA and adding screen reader support.
+7. Led **frontend modernization** **BY** overseeing the migration from **AngularJS to Angular 9**, providing **architectural direction and code reviews**.  
 
-Migrated legacy UI components from AngularJS to Angular 7 BY rewriting structure, logic, and styling using modern Angular practices.
+## Frontend Engineer - Angular 2+ @ Itaú Unibanco | 📅 Mar 2018 - Jun 2019  
 
-Improved component test maintainability BY migrating from Karma/Headless Chrome to Jest, introducing snapshot-based validation for UI consistency.
+### 📋 Task & Situation  
 
-Enhanced styling consistency BY building reusable SASS utilities with tokens and mixins inside the design system library.
+Develop a **company-wide design system** with **Angular 7**, handling **CI workflow** standardization, accessibility, **legacy component migration**, test maintainability, styling consistency, and **adoption across squads** in a fragmented multi-repo architecture.  
 
-Advocated design system adoption across squads and external teams BY promoting usage, troubleshooting multi-repo integrations, and validating implementations for correct usage.
+### 📊 Results **BY** Actions  
 
-## Full-stack Researcher - Java @ UEPG | 📅 Mar 2015 – Aug 2017
+1. Contributed to **CI workflow** standardization **BY** applying **Git best practices** and assisting in the **integration of semantic-release** and **linting rules** into the pipeline.  
 
-### 🎯 The Challenge
+2. Enabled **screen reader support** for **assistive technology** users **BY** **enforcing WCAG AA** into the components.  
 
-Conduct a research project on cost-based pricing for soybean sacks in a legacy Java Struts framework, dealing with environment setup, system reusability, content flexibility, dependency stability, onboarding, model accuracy, and documentation.
+3. **Migrated** legacy UI components from **AngularJS to Angular 7** **BY** rewriting structure, logic, and styling **using modern Angular practices**.  
 
-### 📈 Results BY Actions
+4. **Improved** component **test maintainability** **BY** **migrating** from **Karma/Headless Chrome to Jest**, introducing snapshot-based validation for UI consistency.  
 
-Reduced setup time from weeks to 10 minutes BY building and distributing a preconfigured virtual machine with all dependencies.
+5. Enhanced **styling consistency** **BY** building **reusable SASS utilities** with **tokens and mixins** inside the **design system library**.  
 
-Improved system reusability BY refactoring a Struts-based web application to support modular inputs and custom costing scenarios.
+6. **Advocated design system** adoption **across squads and external teams** **BY** promoting usage, **troubleshooting multi-repo integrations**, and **validating implementations** for correct usage.  
 
-Enabled dynamic content structures BY designing a data tree model for hierarchical content and automatic menu generation.
+## Full-stack Researcher - Java / AngularJS @ UEPG | 📅 Mar 2015 - Aug 2017  
 
-Maintained system stability across contributors BY manually managing dependencies without version control.
+### 📋 Task & Situation
 
-Streamlined onboarding BY consolidating fragmented infrastructure into a single bootable VM image.
+**Research cost models** for pricing **bulk soybean bags** while working within a **legacy Java Struts system**. The role required addressing **long environment setup**, limited system reusability, rigid content structures, **unstable dependencies** and **low model accuracy**.
 
-Improved model accuracy BY implementing real-world costing logic and edge cases in the project.
+### 📊 Results **BY** Actions  
 
-Documented architecture and setup BY creating internal technical guides for future research continuity.
+1. **Reduced setup time** from **weeks to 10 minutes** **BY** building and distributing **a preconfigured virtual machine** with all dependencies.  
 
-## Full-stack Engineer - Delphi / MEAN @ Virtual Software for Insurances | 📅 May 2013 – Mar 2015
+2. Improved system **reusability** **BY** **refactoring a Struts-based web application** to support modular inputs and **custom costing scenarios**.  
 
-### 🎯 The Challenge
+3. Enabled **dynamic content structures** **BY** designing a **data tree model** for hierarchical content and **automatic menu generation**.  
 
-Support development of an insurance management system for brokers and associations, covering PDF data extraction, report maintenance, SQL Server reliability, automation stability, scheduling features, and process quality.
+4. Maintained system **stability across contributors** **BY** **centralizing dependencies** in **SVN version control**.  
 
-### 📈 Results BY Actions
+5. Streamlined **onboarding** **BY** **consolidating** fragmented infrastructure into a **single bootable VM image**.  
 
-Increased accuracy of policy extraction BY introducing a regex string interpreter into the Pascal PDF engine reader.
+6. Improved **model accuracy** **BY** implementing **real-world costing logic** and **edge cases** in the project.  
 
-Reduced manual input time BY optimizing the PDF reading logic for automated policy registration.
+7. Documented **architecture and setup** **BY** creating **internal technical guides** for future research continuity.  
 
-Improved automation reliability BY maintaining and fixing report forms on demand.
+## Full-stack Engineer - Delphi / MEAN @ Virtual Software for Insurances | 📅 May 2013 - Mar 2015  
 
-Enhanced system stability BY supporting brokers and associations remotely with SQL Server backups and troubleshooting issues.
+### 📋 Task & Situation  
 
-Enabled web-based scheduling BY developing an integrated scheduling prototype with Node.js and AngularJS.
-Contributed to process quality BY achieving MPS-BR certification with the team.
+**Support the development** of an **insurance** management **system** **for brokers** and **associations**, improving **data extraction automation**, **database maintenance**, and process quality.  
 
-## Software and Hardware Technician @ Self-Employed | 📅 2004 – 2008
+### 📊 Results **BY** Actions  
 
-### 🎯 The Challenge
+1. Increased **accuracy of data extraction** **BY** introducing a **regex string interpreter** into the Pascal PDF **engine reader**.  
 
-After some years working as the friendly neighborhood IT-guy, I supported my community with software and hardware solutions, taking freelance projects that shaped my path and defined what I wanted to pursue in life.
+2. **Reduced** manual **input time** **BY** **optimizing the PDF reading logic** for automated policy registration.  
 
-### 📈 Results BY Actions
+3. **Supported brokers** reporting needs **BY** **creating and fixing reports** on request.  
 
-Delivered websites and e-commerce platforms BY building with PHP, MySQL, and CMS frameworks (WordPress, Drupal, Joomla, Magento, Moodle)
+4. Enhanced **system stability** **BY** providing remote **SQL Server management and troubleshooting** for brokers and associations.  
 
-Provided hardware reliability BY repairing hardware, configuring networks, maintaining systems, and setting up complete software environments for clients
+5. Enabled **web-based scheduling** **BY** developing an **integrated scheduling prototype** with **Node.js and AngularJS**.  
 
-Provided software reliability BY accelerating environment setup and ensuring client data redundancy through backups and virtualization
+6. Contributed to **process quality** **BY** **achieving MPS-BR certification** with the team.  
 
-Built server environments BY deploying Fedora Linux dumb terminals and setting up Slackware/openSUSE servers
+## Software and Hardware Technician @ Self-Employed | 📅 2004 - 2008  
 
-Provided technical support BY resolving OS and performance issues remotely and onsite
+### 📋 Task & Situation  
+
+After **some years working** as the friendly neighborhood **IT-guy**, I **supported my community** with **software and hardware solutions**, taking **freelance projects** that **shaped my path** and defined what I wanted to pursue in life.  
+
+### 📊 Results **BY** Actions  
+
+1. **Delivered websites** and e-commerce platforms **BY** building with **PHP, MySQL, and CMS** frameworks such as WordPress, Drupal, Joomla, Magento, Moodle, etc.  
+
+2. Provided **hardware reliability** **BY** **repairing hardware**, configuring networks, maintaining systems, and **setting up complete software environments** for clients.  
+
+3. Provided **software reliability** **BY** accelerating environment setup and ensuring client **data redundancy through backups and virtualization**.  
+
+4. Built **server environments** **BY** deploying Fedora Linux **dumb terminals** and **setting up Slackware/openSUSE servers**.  
+
+5. Provided **technical support** **BY** **resolving OS and performance issues** remotely and onsite.  
