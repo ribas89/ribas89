@@ -6,7 +6,7 @@
 
 ---
 
-## [ribas89.eth.limo](https://ribas89.eth.limo) | [ribas89.us.kg](https://ribas89.us.kg/) | [ipfs.io](https://ipfs.io/ipns/k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f) | [dweb.link](https://k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f.ipns.dweb.link/) | [w3c.link](https://k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f.ipns.w3s.link/)  
+## [ribas89.eth.limo](https://ribas89.eth.limo) | [ribas89.us.kg](https://ribas89.us.kg/) | [ipfs.io](https://ipfs.io/ipns/k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f) | [dweb.link](https://k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f.ipns.dweb.link/) | [w3c.link](https://k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f.ipns.w3s.link/) | [github pages](https://ribas89.github.io/blog/)  
 
 ---
 
