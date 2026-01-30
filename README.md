@@ -2,25 +2,32 @@
 
 # Jonathan (ribs) Ribas  
 
-### Clean Code → Resilient Software → Reliable UX → User Retentions
+[ribas89@proton.me](mailto:ribas89@proton.me) - [https://www.linkedin.com/in/ribas89](https://www.linkedin.com/in/ribas89) - [https://github.com/ribas89](https://github.com/ribas89)
 
 # 🍖 Whoami  
 
-**Since 2007** I **develop software** that works for most **cases**… and **catch the edge** ones.  
+**Since 2007** I’ve been **developing software** that works for most **cases**… and **catching the edge** ones.  
 
-**In my career** git log, **programming** was my **initial commit**, is my **current stash**, and will be my **final tag**. As my commit **history progresses**, its hashes are composed with **back end and front end languages**.
-
----
+| Sector        | Company          | Stack / Role      | Duration            |
+|---------------|------------------|-------------------|---------------------|
+| Startup       | Neurogram        | React Web         | Nov 2023 - Nov 2024 |
+| Startup       | XTeam            | React Native      | Sep 2022 - Jul 2023 |
+| Retail        | Riachuelo        | React Native      | Aug 2020 - Aug 2022 |
+| Banking       | Safra            | AngularJS         | Jun 2019 - Aug 2020 |
+| Banking       | Itaú             | Angular 2+        | Mar 2018 - Jun 2019 |
+| Academia      | UEPG             | Java              | Mar 2015 - Aug 2017 |
+| Insurance     | Virtual          | Delphi / MEAN     | May 2013 - Mar 2015 |
+| Self-Employed | Freelance        | Technician        | 2004 - 2008         |
 
 # 🧰 Technical Skills  
+
+**In my career** git log, **programming** was my **initial commit**, is my **current stash**, and will be my **final tag**. As my commit **history progresses**, its hashes are composed with **back end and front end languages**.
 
 - **5+ years**: Agile, Apache, Big O, CSS3, Cross-Browser Compatibility, Git, HTML4, JavaScript, MariaDB, Node.js, Prettier, React, React Native, Redux, Responsive Design, Scrum, SQL, TypeScript  
 - **4 years**: CI/CD, Code Push, ESLint, PHP, Postman, Swagger, WCAG  
 - **3 years**: Axe, Firebase, GitHub Actions, Java, macOS  
 - **2 years**: Angular 2+, AngularJS, App Center, Django, NoSQL, SASS, Shell Script, SVN  
 - **1 year**: AWS, Azure, C++, CMMI, Cypress, Docker, Expo, GraphQL Apollo, Jenkins, Kubernetes, MobX, MongoDB, Next.js, Python, Selenium, Visual Basic, Vue.js  
-
----
 
 # 💼 Job Experience  
 
