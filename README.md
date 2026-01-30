@@ -1,14 +1,8 @@
-![build your project on the rock](https://github.com/user-attachments/assets/d180f2fe-fb8a-4531-85a1-e45594c81a52)  
+![build your project on the rock](./header-bigger-cut.webp)  
 
 # Jonathan (ribs) Ribas  
 
-### Clean Code → Resilient Software → Reliable UX → User Retention  
-
----
-
-## [ribas89.eth.limo](https://ribas89.eth.limo) | [ribas89.us.kg](https://ribas89.us.kg/) | [ipfs.io](https://ipfs.io/ipns/k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f) | [dweb.link](https://k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f.ipns.dweb.link/) | [w3c.link](https://k51qzi5uqu5dj1chhvgfyv3ifspo0uz53ujl0e70ikb8fbdupdaoouhp6og02f.ipns.w3s.link/) | [github pages](https://ribas89.github.io/blog/)  
-
----
+### Clean Code → Resilient Software → Reliable UX → User Retentions
 
 # 🍖 Whoami  
 
@@ -197,4 +191,4 @@ After **some years working** as the friendly neighborhood **IT-guy**, I **suppor
 
 4. Built **server environments** **BY** deploying Fedora Linux **dumb terminals** and **setting up Slackware/openSUSE servers**.  
 
-5. Provided **technical support** **BY** **resolving OS and performance issues** remotely and onsite.  
+5. Provided **technical support** **BY** **resolving OS and performance issues** remotely and onsite.
