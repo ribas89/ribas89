@@ -2,7 +2,7 @@
 
 # Jonathan (ribs) Ribas  
 
-[ribas89@proton.me](mailto:ribas89@proton.me) - [https://www.linkedin.com/in/ribas89](https://www.linkedin.com/in/ribas89) - [https://github.com/ribas89](https://github.com/ribas89)
+[contact@ribas89.co.uk](mailto:contact@ribas89.co.uk) - [https://www.linkedin.com/in/ribas89](https://www.linkedin.com/in/ribas89) - [https://github.com/ribas89](https://github.com/ribas89)
 
 # 🍖 Whoami  
 
